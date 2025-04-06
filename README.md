@@ -1,5 +1,5 @@
 # ClipBucket V5 - An updated way to broadcast yourself
-<a href="https://github.com/MacWarrior/clipbucket-v5">ClipBucket V5</a> is a __free updated and upgraded__ version of <a href="https://github.com/arslancb/clipbucket">ClipBucket</a>.
+<a href="https://github.com/MacWarrior/clipbucket-v5">ClipBucket V5</a> is a __free updated and upgraded__ version of <a href="https://github.com/arslancb/clipbucket">ClipBucket By TEJOB</a>.
 
 ClipBucket is an Open Source and freely downloadable PHP script that will let you start your own Video Sharing website (YouTube/Netflix Clone) in a matter of minutes.
 ClipBucket is the fastest growing video script with the most advanced video sharing and social features.
